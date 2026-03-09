@@ -359,7 +359,7 @@ https://www.figma.com/make/tgUSfaYlxQ7ZPHNsqo7ary/User-dashboard?t=l2XrWyJ2UeYE9
 ## Sitio publicado
 
 **Enlace a GitHub Pages:**  
-_Pendiente de agregar._
+https://calderonallan.github.io/FirstLab/
 
 ---
 
